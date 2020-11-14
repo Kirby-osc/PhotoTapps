@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EF0CAF9B2560044400203C2B /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0CAF9A2560044400203C2B /* ImageViewController.swift */; };
+		EF0CAF9E25600DD100203C2B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EF0CAF9D25600DD100203C2B /* .gitignore */; };
 		EFC81BA5255BFBA7002C6BFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC81BA4255BFBA7002C6BFD /* AppDelegate.swift */; };
 		EFC81BA7255BFBA7002C6BFD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC81BA6255BFBA7002C6BFD /* SceneDelegate.swift */; };
 		EFC81BAC255BFBA7002C6BFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFC81BAA255BFBA7002C6BFD /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		EF0CAF9A2560044400203C2B /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		EF0CAF9D25600DD100203C2B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		EFC81BA1255BFBA7002C6BFD /* PhotoTapps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoTapps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC81BA4255BFBA7002C6BFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFC81BA6255BFBA7002C6BFD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				EFC81BA6255BFBA7002C6BFD /* SceneDelegate.swift */,
 				EFC81BAA255BFBA7002C6BFD /* Main.storyboard */,
 				EF0CAF9A2560044400203C2B /* ImageViewController.swift */,
+				EF0CAF9D25600DD100203C2B /* .gitignore */,
 				EFC81BBD255C01B8002C6BFD /* PhotoCell.swift */,
 				EFC81BBA255BFC27002C6BFD /* MainCollectionViewController.swift */,
 				EFC81BAD255BFBAB002C6BFD /* Assets.xcassets */,
@@ -130,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF0CAF9E25600DD100203C2B /* .gitignore in Resources */,
 				EFC81BB1255BFBAB002C6BFD /* LaunchScreen.storyboard in Resources */,
 				EFC81BAE255BFBAB002C6BFD /* Assets.xcassets in Resources */,
 				EFC81BAC255BFBA7002C6BFD /* Main.storyboard in Resources */,
